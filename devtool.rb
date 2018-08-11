@@ -4,8 +4,8 @@
 class Devtool < Formula
   desc "An all-round developer toolset."
   version "1.0"
-  homepage "https://github.com/MrHunterZhao/DevTool"
-  url "https://github.com/MrHunterZhao/DevTool/releases/download/v#{version}/devtool"
+  homepage "https://github.com/hzio/DevTool"
+  url "https://github.com/hzio/DevTool/releases/download/v#{version}/devtool"
   sha256 "3fafdb2e2dfd5a01a0cdf39f8d704134a75d7459ec0d6b390954d02a21842e62"
   # depends_on "cmake" => :build
 
